@@ -1,1 +1,1 @@
-# docker-wls1036-managedserver
+# docker-wls1036-adminserver
